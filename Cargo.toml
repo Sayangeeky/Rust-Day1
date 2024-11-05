@@ -1,3 +1,9 @@
+[profile.dev]
+incremental = false
+
+[profile.release]
+incremental = false
+
 [package]
 name = "rust-project"
 version = "0.1.0"
